@@ -1,0 +1,34 @@
+ManasviHealthcareApp/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── yourcompany/
+│   │   │   │           └── manasvihealthcare/
+│   │   │   │               ├── MainActivity.kt
+│   │   │   │               └── NextActivity.kt
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   └── activity_next.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── strings.xml
+│   │   │   │   │   └── colors.xml
+│   │   │   │   └── drawable/
+│   │   │   ├── AndroidManifest.xml
+│   │   ├── build.gradle
+│   ├── build.gradle
+│   └── gradle.properties
+│
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+│
+├── .gitignore
+├── build.gradle
+├── settings.gradle
+├── gradlew
+└── gradlew.bat

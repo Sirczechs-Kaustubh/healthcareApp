@@ -35,3 +35,5 @@ Run the Application
 
 In Android Studio, select the appropriate device or emulator from the device dropdown list at the toolbar.
 Click the "Run" button (green triangle) or press Shift + F10 to build and run the project.
+
+### Contributors - Kaustubh and Umair Ahmed
